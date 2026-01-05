@@ -171,7 +171,7 @@ Potential improvements and extensions:
 **Felix Okumo**  
 - Email: felix.1.okumo@gmail.com
 - GitHub: [@felixokumo1-stack](https://github.com/felixokumo1-stack)
-- LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
+- LinkedIn: [Felix Okumo](https://www.linkedin.com/in/felix-okumo)
 
 Feel free to reach out for:
 - Questions about the project
